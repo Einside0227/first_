@@ -3,7 +3,7 @@
 첫 번째 실습 과제를 풀어보았습니다!
 
 ## 사용한 기술
-- C++
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=White"/>
 
 ## 1️⃣ 필수 기능
 - HP, MP, 공격력, 방어력을 int형 배열로 선언, 전체 값들은 0으로 초기화합니다.
